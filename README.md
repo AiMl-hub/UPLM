@@ -3,7 +3,7 @@ Adnan Khan, Mai A. Shaaban, Muhammad Haris Khan
 
 **Mohamed bin Zayed University of Artificial Intelligence, Abu Dhabi, UAE**
 
-[![Static Badge](https://img.shields.io/badge/Paper-Link-yellowgreen?link=https%3A%2F%2Fzenodo.org%2Frecords%2F10104139)]()
+[![Static Badge](https://img.shields.io/badge/Paper-Link-yellowgreen?link=https%3A%2F%2Fzenodo.org%2Frecords%2F10104139)](https://arxiv.org/abs/2401.13965)
 [![python](https://img.shields.io/badge/Python-3.8-3776AB.svg?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![pytorch](https://img.shields.io/badge/PyTorch-1.12.1-EE4C2C.svg?style=flat&logo=pytorch)](https://pytorch.org)
 
