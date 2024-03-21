@@ -16,7 +16,7 @@ Comparison of baseline model (FixMatch), our Uncertainty-Guided PL approach (UPL
 
 ### PACS
 
-| Target Domain | FixMatch | UPL | Model Averaging | Combined Model |
+| Target Domain | FixMatch | UPL | MA | UPLM |
 | --- | --- | --- | --- | --- |
 | Photo   | 82.67 | 89.76 | 90.40 | 88.09 |
 | Art     | 70.79 | 72.75 | 76.53 | 76.84 |
@@ -26,7 +26,7 @@ Comparison of baseline model (FixMatch), our Uncertainty-Guided PL approach (UPL
 
 ### OfficeHome
 
-| Target Domain | Baseline Model | Uncertainty Estimation | Model Averaging | Combined Model |
+| Target Domain | FixMatch | UPL | MA | UPLM |
 | --- | --- | --- | --- | --- |
 | Art         | 38.64 | 39.37 | 43.52 | 42.47 |
 | Clipart     | 39.28 | 41.69 | 41.76 | 40.58 |
@@ -36,7 +36,7 @@ Comparison of baseline model (FixMatch), our Uncertainty-Guided PL approach (UPL
 
 ### VLCS
 
-| Target Domain | Baseline Model | Uncertainty Estimation | Model Averaging | Combined Model |
+| Target Domain | FixMatch | UPL | MA | UPLM |
 | --- | --- | --- | --- | --- |
 | Caltech101  | 43.37 | 74.08 | 36.42 | 85.68 |
 | LabelMe     | 52.78 | 59.23 | 51.49 | 61.09 |
@@ -46,7 +46,7 @@ Comparison of baseline model (FixMatch), our Uncertainty-Guided PL approach (UPL
 
 ### Terra
 
-| Target Domain | Baseline Model | Uncertainty Estimation | Model Averaging | Combined Model |
+| Target Domain | FixMatch | UPL | MA | UPLM |
 | --- | --- | --- | --- | --- |
 | Location 38       | 15.00 | 22.14 | 28.59 | 32.32 |
 | Location 43       | 14.07 | 14.07 | 17.88 | 25.82 |
