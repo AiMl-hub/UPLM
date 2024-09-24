@@ -85,5 +85,9 @@ To train the model on "pacs" dataset, seed "1" and "photo" domain, use the follo
 
  <code> python main.py --dataset_name=pacs --seed=1 --domain=photo --un_thresh 0.2 --train_mode uplm --out ./outputs </code>
 
+ ## Acknowledgments 
+
+This work was supported in part by Google unrestricted gift 2023. The authors are grateful for their generous support, which made this research possible.
+
 
 
