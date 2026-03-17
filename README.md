@@ -60,7 +60,7 @@ Comparison of baseline model (FixMatch), our Uncertainty-Guided PL approach (UPL
 Create an environment using the following command: ```conda env create -n uplm --file environment.yml```
 
 ### Datatset Preparation
-- Download datasets along with their splits (train, test, and unlabeled) from [here](https://alexuuni-my.sharepoint.com/:f:/g/personal/mai_shaaban_alexu_edu_eg/IgBfoOjkd_zoTYSUQRm06f0IAXZGKqAur2SuiXPLcWy_80o?e=nzDr10).
+- Download datasets along with their splits (train, test, and unlabeled) from [here](https://mbzuaiac-my.sharepoint.com/:f:/g/personal/mai_kassem_mbzuai_ac_ae/IgDAuyA-0wzDQ4vZtzu3r02LAQzo3kBvmnTeAT2nkn3aomk?e=q4O4oP).
 - Create a folder named ```datasets``` in the root directory of the project.
 - Place the downloaded zip files in the ```datasets``` folder.
 - Unzip the datasets.
